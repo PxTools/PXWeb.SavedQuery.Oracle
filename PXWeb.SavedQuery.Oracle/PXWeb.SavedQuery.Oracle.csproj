@@ -23,7 +23,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.320" />
-    <PackageReference Include="PcAxis.Query" Version="1.0.10" />
+    <PackageReference Include="PcAxis.Query" Version="1.0.11" />
   </ItemGroup>
 
   <ItemGroup>
